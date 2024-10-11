@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern Design</title>
+    <link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans&family=SF+Pro+Display:wght@400;500&display=swap" rel="stylesheet">
+    <link href="./css/main.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <header>
+            <nav class="navbar">
+                <a href="#" class="nav-link">Home</a>
+                <a href="#" class="nav-link">About me</a>
+                <a href="gallery.html" class="nav-link">Gallery</a>
+                <a href="#" class="nav-link">ENG</a>
+                <div class="nav-icons">
+                    <span class="icon-phone"></span>
+                    <span class="icon-share"></span>
+                </div>
+            </nav>
+        </header>
+
+        <main>
+            <div class="pohon1">
+                <a1 class="pohon2"><img src="pohon.png" width="500px" height="500px"></a1>
+            </div>
+            <h1>Hi there.<br>Welcome to my website</h1>
+            <div class="buttons"> 
+                <a href="https://wa.me/6281398480189" class="button button-contact">Contact</a>
+                <a href="https://www.instagram.com/iswhyd_/" class="button button-about">Instagram</a>
+            </div>
+            <a href="#" class="button2 button-about2"><img src="icons8-arrow-50.png" class="panah"></a>
+        </main>
+
+        <footer>
+            <p>Thank You For Visit</p>
+        </footer>
+    </div>
+
+    <script>
+      const button2 = document.querySelector('.button2');
+      const body = document.body;
+      const arrowIcon = document.querySelector('.button2 .panah');
+
+      button2.addEventListener('click', function () {
+        body.classList.toggle('dark-theme');
+        arrowIcon.classList.toggle('rotated');
+      });
+    </script>
+</body>
+</html>
