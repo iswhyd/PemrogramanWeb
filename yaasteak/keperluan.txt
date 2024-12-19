@@ -1,0 +1,23 @@
+Warna:
+#F6BC19
+#A20204
+#000000
+#FFF5D0
+
+Yang diperlukan untuk saat ini
+
+- drive foto (interior tempat makan, logo, menu, review, event)
+- Slogan umkm itu sendiri
+- deskripsi tentang umkm itu tersebut(ex: berdirinya kapan dll.)
+- Lokasi umkm tersebut ada dimana saja, jika ada cabang kasih keterangan
+- Nomor Wa Admin UMKM buat memesan
+- waktu operasional umkmnya dari hari + waktu
+
+
+Fitur
+
+Navbar (Logo, Home, Menu, Event, Tentang kami, Hubungi kami)
+Isi Navbar Home dibagi 4 = - konten Paling atas terdapat Slide Fade in Fade out + kata Selamat Datang di WebSite UMKM tersebut
+		  	   - konten ditengah ke-1 terdapat 4 card gambar dari restaurant (zigzag(kiri atas, kanan bawah)) setiap card disampingnya kan ada kosong itu diisi dengan deskripsi restaurant tsb
+		  	   - konten ditengah ke-2 terdapat 6 card gambar dari menu (3 atas, 3 bawah)tidak zigzag + nama menu dan tombol order now(terdiri dari 2 tombol yaitu ke WA & Ke GoFood
+		  	   - konten terakhir footer terdapat

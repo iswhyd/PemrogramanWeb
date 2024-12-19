@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to right, #74ebd5, #ACB6E5);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+    width: 350px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.form-group {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+label {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 5px;
+    display: block;
+}
+
+input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    transition: border 0.3s ease;
+}
+
+input[type="number"]:focus {
+    border-color: #74ebd5;
+    outline: none;
+}
+
+.form-actions {
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 25px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+
+button:first-child {
+    background: #28a745;
+}
+
+button:first-child:hover {
+    background: #218838;
+    transform: translateY(-3px);
+}
+
+button:last-child {
+    background: #dc3545;
+    margin-left: 10px;
+}
+
+button:last-child:hover {
+    background: #c82333;
+    transform: translateY(-3px);
+}
+
+h2 {
+    font-size: 20px;
+    color: #333;
+    margin-top: 30px;
+}
+
+span {
+    font-weight: bold;
+    color: #28a745;
+    font-size: 24px;
+}

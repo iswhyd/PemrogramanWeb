@@ -1,0 +1,399 @@
+.root {
+  position: relative;
+  width: 1400px;
+  height: 900px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle50 {
+  position: absolute;
+  left: 1204px;
+  top: 18px;
+  width: 144px;
+  height: 144px;
+  border-radius: 0 72px 0 0;
+  background-color: #fff;
+}
+.entypoShare {
+  position: absolute;
+  left: 1264px;
+  top: 78px;
+  width: 24px;
+  height: 24px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.rectangle44 {
+  position: absolute;
+  left: 1060px;
+  top: 18px;
+  width: 144px;
+  height: 144px;
+  background-color: #fff;
+}
+.icRoundCall {
+  position: absolute;
+  left: 1120px;
+  top: 78px;
+  width: 24px;
+  height: 24px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle54 {
+  position: absolute;
+  left: 1204px;
+  top: 594px;
+  width: 144px;
+  height: 144px;
+  border-radius: 72px 72px 0 0;
+  background-color: #fff;
+  box-shadow: 20px 20px 80px 0px #0000001a;
+}
+.rectangle14 {
+  position: absolute;
+  left: 340px;
+  top: 18px;
+  width: 144px;
+  height: 144px;
+  border-radius: 72px 0 0 72px;
+  background-color: #fff;
+  box-shadow: 20px 20px 80px 0px #0000001a;
+}
+.rectangle3 {
+  position: absolute;
+  left: 52px;
+  top: 162px;
+  width: 144px;
+  height: 144px;
+  border-radius: 0 0 72px;
+  background-color: #fff;
+  box-shadow: 20px 20px 80px 0px #0000001a;
+}
+.rectangle51 {
+  position: absolute;
+  left: 1204px;
+  top: 162px;
+  width: 144px;
+  height: 144px;
+  border-radius: 0 0 72px;
+  background-color: #fff;
+  box-shadow: 20px 20px 80px 0px #0000001a;
+}
+.rectangle10 {
+  position: absolute;
+  left: 196px;
+  top: 306px;
+  width: 144px;
+  height: 144px;
+  border-radius: 0 72px 0 0;
+  background-color: #fff;
+  box-shadow: 20px 20px 80px 0px #0000001a;
+}
+.rectangle46 {
+  position: absolute;
+  left: 1060px;
+  top: 306px;
+  width: 144px;
+  height: 144px;
+  border-radius: 72px;
+  background-color: #fff;
+  box-shadow: 20px 20px 80px 0px #0000001a;
+}
+.rectangle11 {
+  position: absolute;
+  left: 196px;
+  top: 450px;
+  width: 144px;
+  height: 144px;
+  border-radius: 72px;
+  background-color: #fff;
+  box-shadow: 20px 20px 80px 0px #0000001a;
+}
+.rectangle53 {
+  position: absolute;
+  left: 1204px;
+  top: 450px;
+  width: 144px;
+  height: 144px;
+  border-radius: 0 72px;
+  background-color: #fff;
+  box-shadow: 20px 20px 80px 0px #0000001a;
+}
+.rectangle48 {
+  position: absolute;
+  left: 1060px;
+  top: 594px;
+  width: 144px;
+  height: 144px;
+  border-radius: 0 0 0 72px;
+  background-color: #fff;
+  box-shadow: 20px 20px 80px 0px #0000001a;
+}
+.rectangle8 {
+  position: absolute;
+  left: 196px;
+  top: 18px;
+  width: 144px;
+  height: 144px;
+  border-radius: 72px 0;
+  background-color: #fff;
+  box-shadow: 20px 20px 80px 0px #0000001a;
+}
+.rectangle5 {
+  position: absolute;
+  left: 52px;
+  top: 450px;
+  width: 144px;
+  height: 144px;
+  border-radius: 0 0 0 72px;
+  background-color: #fff;
+  box-shadow: 20px 20px 80px 0px #0000001a;
+}
+.rectangle12 {
+  position: absolute;
+  left: 196px;
+  top: 594px;
+  width: 144px;
+  height: 144px;
+  border-radius: 0 0 72px;
+  background-color: #fff;
+  box-shadow: 20px 20px 80px 0px #0000001a;
+}
+.rectangle45 {
+  position: absolute;
+  left: 1060px;
+  top: 162px;
+  width: 144px;
+  height: 144px;
+  background-color: #fff;
+  box-shadow: 20px 20px 80px 0px #0000001a;
+}
+.rectangle20 {
+  position: absolute;
+  left: 484px;
+  top: 18px;
+  width: 144px;
+  height: 144px;
+  background-color: #fff;
+}
+.home {
+  color: #000;
+  font-size: 14px;
+  font-family: Pixelify Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.01em;
+  position: absolute;
+  left: 537px;
+  top: 81px;
+  width: 37px;
+  height: 17px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.rectangle26 {
+  position: absolute;
+  left: 628px;
+  top: 18px;
+  width: 144px;
+  height: 144px;
+  background-color: #fff;
+}
+.aboutMe {
+  color: #000;
+  font-size: 14px;
+  font-family: Pixelify Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.01em;
+  position: absolute;
+  left: 669px;
+  top: 81px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle32 {
+  position: absolute;
+  left: 772px;
+  top: 18px;
+  width: 144px;
+  height: 144px;
+  background-color: #fff;
+}
+.gallery {
+  color: #000;
+  font-size: 14px;
+  font-family: Pixelify Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.01em;
+  position: absolute;
+  left: 822px;
+  top: 81px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle38 {
+  position: absolute;
+  left: 916px;
+  top: 18px;
+  width: 144px;
+  height: 144px;
+  border-radius: 72px 0 0 72px;
+  background-color: #fff;
+  box-shadow: 20px 20px 80px 0px #0000001a;
+}
+.eNG {
+  color: #bdbdbd;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: SF Pro Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.01em;
+  position: absolute;
+  left: 974px;
+  top: 81px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle7 {
+  position: absolute;
+  left: 52px;
+  top: 738px;
+  width: 144px;
+  height: 144px;
+  border-radius: 0 0 72px 72px;
+  background-color: #fff;
+  box-shadow: 20px 20px 80px 0px #0000001a;
+}
+.ionArrowBackOutline {
+  position: absolute;
+  left: 92px;
+  top: 778px;
+  width: 64px;
+  height: 64px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle56 {
+  position: absolute;
+  left: 546px;
+  top: 528px;
+  width: 144px;
+  height: 48px;
+  border-radius: 36px;
+  background-color: #5ae579;
+  box-shadow: 0px 10px 20px 0px #58d67480;
+}
+.contact {
+  color: #fff;
+  font-size: 14px;
+  font-family: Pixelify Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.01em;
+  position: absolute;
+  left: 593px;
+  top: 544px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle57 {
+  position: absolute;
+  left: 710px;
+  top: 528px;
+  width: 144px;
+  height: 48px;
+  border-radius: 36px;
+  background-color: #fff;
+  box-shadow: 30px 20px 80px 0px #0000001a;
+}
+.aboutMe2 {
+  color: #8e8e8e;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Pixelify Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.01em;
+  position: absolute;
+  left: 752px;
+  top: 544px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle58 {
+  position: absolute;
+  left: 238px;
+  top: 765px;
+  width: 966px;
+  height: 110px;
+  border-radius: 40px;
+  background-color: #fff;
+  box-shadow: 10px 4px 80px 0px #0000001a;
+}
+.thankYouForVisit {
+  color: #000;
+  font-size: 36px;
+  font-weight: 500;
+  font-family: Pixelify Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 437px;
+  top: 799px;
+  width: 583px;
+  height: 55px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.hiThereWelcomeToMyWebsite {
+  position: absolute;
+  left: 411px;
+  top: 374px;
+  width: 591px;
+  height: 114px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock {
+  color: #000;
+  font-size: 36px;
+  font-weight: 500;
+  font-family: Pixelify Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #000;
+  font-size: 36px;
+  font-weight: 500;
+  font-family: Pixelify Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
